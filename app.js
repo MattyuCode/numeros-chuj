@@ -1,4 +1,3 @@
-//test
 const select = document.querySelectorAll('.listados select'),
     input = document.querySelector('#texto'),
     alertDanger = document.querySelector('.alDanger'),
