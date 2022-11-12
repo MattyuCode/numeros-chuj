@@ -155,13 +155,134 @@ const numerosChujEnLetras = [{
     {
         id: 30,
         name: "Lajunhe' xchawinak"
+    },
+    {
+        id: 31,
+        name: "Huxluche xchawinak"
+    },
+    {
+        id: 32,
+        name: "Lajchawe xchawinak"
+    },
+    {
+        id: 33,
+        name: "Oxlajunhe xchawinak"
+    },
+    {
+        id: 34,
+        name: "Chanhlajunhe xchawinak"
+    },
+    {
+        id: 35,
+        name: "Holajunhe xchawinak"
+    },
+    {
+        id: 36,
+        name: "Waklajunhe xchawinak"
+    },
+    {
+        id: 37,
+        name: "Huklajunhe xchawinak"
+    },
+    {
+        id: 38,
+        name: "Wajxaklajunhe xchawinak"
+    },
+    {
+        id: 39,
+        name: "B'alunhlajunhe xchawinak"
+    },
+    {
+        id: 40,
+        name: "Chawinak"
+    },
+    {
+        id: 41,
+        name: "Jun yoxwinak"
+    },
+    {
+        id: 42,
+        name: "chab' yoxwinak"
+    },
+    {
+        id: 43,
+        name: "oxe yoxwinak"
+    },
+    {
+        id: 44,
+        name: "chanhe yoxwinak"
+    },
+    {
+        id: 45,
+        name: "Hoye yoxwinak"
+    },
+    {
+        id: 46,
+        name: "Wake yoxwinak"
+    },
+    {
+        id: 47,
+        name: "Huke yoxwinak"
+    },
+    {
+        id: 48,
+        name: "Waklajunhe yoxwinak"
+    },
+    {
+        id: 49,
+        name: "B'alunhe yoxwinak"
+    },
+    {
+        id: 50,
+        name: "Lajunhe yoxwinak"
+    },
+    {
+        id: 51,
+        name: "Huxluche yoxwinak"
+    },
+    {
+        id: 52,
+        name: "Lajchawe yoxwinak"
+    },
+    {
+        id: 53,
+        name: "Oxlajunhe yoxwinak"
+    },
+    {
+        id: 54,
+        name: "Chanhlajunhe yoxwinak"
+    },
+    {
+        id: 55,
+        name: "Holajunhe yoxwinak"
+    },
+    {
+        id: 56,
+        name: "Wajxake yoxwinak"
+    },
+    {
+        id: 57,
+        name: "Huklajunhe yoxwinak"
+    },
+    {
+        id: 58,
+        name: "Wajxaklajunhe yoxwinak"
+    },
+    {
+        id: 59,
+        name: "B'alunhlajunhe yoxwinak"
+    },
+    {
+        id: 60,
+        name: "Oxwinak"
     }
+
 ]
 
 select.forEach(item => {
     // for (let key in numerosChujEnLetras) { // FOR IN = para ver los index del array y en objeto sale propiedades
     for (let key of numerosChujEnLetras) { // FOR OF = para ver los valores del array (key.id)
-        
+
         // let optionTag = `<option value="${key}">${key}</option>`;
         // item.insertAdjacentHTML("beforeend", optionTag);
 
